@@ -152,7 +152,6 @@ python main.py
 ---
 
 ### ♟️ “Artificial Intelligence is best understood when it plays a game.” ♟️
-wt is screenshots how to upload
 
                    🌟 Thank You 🌟
 ⭐ If you like this project, give it a star on GitHub ⭐
