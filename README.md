@@ -2,7 +2,8 @@
 
 ## Artificial Intelligence Based Checkers Game
 
-![Checkers Banner](screenshots/banner.jpg)
+
+<img width="325" height="155" alt="banner" src="https://github.com/user-attachments/assets/4ac5293a-197c-4df9-9324-5466e8fda8f6" />
 
 ---
 
@@ -104,15 +105,18 @@ Best Move Selected
 
 ### Initial Board
 
-![Initial Board](screenshots/initial_board.jpg)
+<img width="225" height="225" alt="initial_board" src="https://github.com/user-attachments/assets/f05f4bc4-4244-44fc-a73b-6af5cd96da11" />
+
 
 ### AI Decision
 
-![AI Move](screenshots/ai_move.jpg)
+<img width="335" height="151" alt="ai_move" src="https://github.com/user-attachments/assets/16a6f750-182b-47c3-9b5f-4498f1f18dab" />
+
 
 ### Board After Move
 
-![Final Board](screenshots/final_board.jpg)
+<img width="300" height="168" alt="final_board" src="https://github.com/user-attachments/assets/fe16b1ff-e833-445e-823a-70ea594f5c27" />
+
 
 ---
 
