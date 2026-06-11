@@ -125,6 +125,48 @@ Best Move Selected
 ```bash
 python main.py
 ```
+---
+## 📤 Sample Output
+
+```text
+Initial Board:
+
+. A . A . A . A
+A . A . A . A .
+. A . A . A . A
+. . . . . . . .
+. . . . . . . .
+H . H . H . H .
+. H . H . H . H
+H . H . H . H .
+
+AI selected move: (2,1) -> (3,0)
+
+Board After AI Move:
+
+. A . A . A . A
+A . A . A . A .
+. . . A . A . A
+A . . . . . . .
+. . . . . . . .
+H . H . H . H .
+. H . H . H . H
+H . H . H . H .
+
+Evaluation Score: 0
+```
+
+### Output Explanation
+
+* The game initializes an 8×8 Checkers board.
+* The AI player (`A`) and Human player (`H`) pieces are placed in their standard starting positions.
+* The Minimax algorithm with Alpha-Beta Pruning evaluates possible moves.
+* The AI selects the best available move.
+* The updated board state is displayed.
+* The evaluation score represents the difference between AI and Human pieces.
+
+
+---
 ## 💻  Requirements
 
 - Python 3.8 or higher
