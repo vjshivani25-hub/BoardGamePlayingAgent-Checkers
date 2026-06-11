@@ -141,6 +141,19 @@ python main.py
 
 ---
 
+---
+
+## 👥 Team Members
+
+| Name | Roll Number |
+|--------|------------|
+| MOSANGI VIAJA LAKSHMI | 2520090201 |
+| POTLABATHINI SHASHANTH | 2520090211 |
+| SAI KRISHNA | 2520090156 |
+
+---
+
+---
 ## 👨‍💻 Course Information
 
 **Course:** Computational Foundations of Artificial Intelligence (CFAI)
