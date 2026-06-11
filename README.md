@@ -125,7 +125,7 @@ Best Move Selected
 ```bash
 python main.py
 ```
-## Requirements
+## 💻  Requirements
 
 - Python 3.8 or higher
 - No external libraries required
